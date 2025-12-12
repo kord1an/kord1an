@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Kordian 👋
 
-<!--
-**kord1an/kord1an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Starting in 2023, I’ve been building a homelab to learn Linux administration and DevOps on real infrastructure.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Proxmox VE with Debian/Ubuntu VMs
+- Docker & multi-node Docker Swarm with shared NFS storage
+- Traefik as central reverse proxy with TLS automation
+- Migrating services from LXC / standalone Docker into Swarm
+- Automating host setup and deployments with Ansible (work in progress)
+- Documenting everything as runbooks, design notes and inventory
+
+## Repositories
+
+- [homelab](https://github.com/kord1an/homelab) – infrastructure & documentation
