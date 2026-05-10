@@ -1,16 +1,34 @@
 # Hi, I'm Kordian 👋
 
-Starting in 2023, I’ve been building a homelab to learn Linux administration and DevOps on real infrastructure.
+I’m building and experimenting with self-hosted infrastructure systems to understand how real-world platforms work under the hood.
 
-## What I'm working on
+---
 
-- Proxmox VE with Debian/Ubuntu VMs
-- Docker & multi-node Docker Swarm with shared NFS storage
-- Traefik as central reverse proxy with TLS automation
-- Migrating services from LXC / standalone Docker into Swarm
-- Automating host setup and deployments with Ansible (work in progress)
-- Documenting everything as runbooks, design notes and inventory
+## What I do
 
-## Repositories
+- Linux & system administration (Debian / Ubuntu)
+- Virtualization with Proxmox VE
+- Docker & service orchestration (Docker Swarm)
+- Infrastructure automation with Ansible
+- Self-hosted services and homelab architecture
 
-- [homelab](https://github.com/kord1an/homelab) – infrastructure & documentation
+---
+
+## Interests
+
+- Infrastructure design & tradeoffs
+- Networking & storage systems
+- Automation & reproducible environments
+- Operational reliability in small-scale systems
+
+---
+
+## Current focus
+
+Building a personal homelab as a learning environment for systems thinking, DevOps practices, and infrastructure architecture.
+
+---
+
+## Projects
+
+See pinned repositories for infrastructure, documentation, and experiments.
