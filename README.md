@@ -1,34 +1,32 @@
-# Hi, I'm Kordian 👋
+# Hi, I'm Kordian
 
-I’m building and experimenting with self-hosted infrastructure systems to understand how real-world platforms work under the hood.
+I build and maintain a personal homelab to learn how infrastructure works:
+how services depend on networking and storage, how to automate changes,
+and what it takes to recover when something fails.
 
----
+## What I work with
 
-## What I do
-
-- Linux & system administration (Debian / Ubuntu)
-- Virtualization with Proxmox VE
-- Docker & service orchestration (Docker Swarm)
-- Infrastructure automation with Ansible
-- Self-hosted services and homelab architecture
-
----
-
-## Interests
-
-- Infrastructure design & tradeoffs
-- Networking & storage systems
-- Automation & reproducible environments
-- Operational reliability in small-scale systems
-
----
+- Linux administration, mainly Debian
+- Proxmox VE virtualization
+- Docker Compose and self-hosted services
+- Ansible automation
+- ZFS and NFS storage
+- Proxmox Backup Server and offsite backups
 
 ## Current focus
 
-Building a personal homelab as a learning environment for systems thinking, DevOps practices, and infrastructure architecture.
+- Simplifying and documenting infrastructure automation
+- Keeping inventory and service dependencies clear
+- Improving operational reliability
 
----
+## How I work
+
+I use AI while building and learning. I plan what I want to achieve, and AI helps me turn those ideas into code, infrastructure configuration and deployment steps. Along the way, I work on understanding how the solutions work and how to maintain them.
+
+My repositories document the implementation, decisions, validation
+and remaining gaps.
 
 ## Projects
 
-See pinned repositories for infrastructure, documentation, and experiments.
+See my pinned repositories for the public homelab portfolio,
+technical notes and experiments.
